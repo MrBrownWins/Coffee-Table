@@ -7,5 +7,8 @@
     <string name="minus">-</string>
     <string name="plus">+</string>
     <string name="price">Price</string>
+    <string name="coffee_price">$3.00</string>
+    <string name="cash_tag">$</string>
+    <string name="coffee_description">Hot cup of coffee!</string>
     <string name="action_settings">Settings</string>
 </resources>
